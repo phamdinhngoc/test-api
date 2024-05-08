@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6F4AF353-1779-4003-9349-DE4481E0915A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Test</RootNamespace>
+    <AssemblyName>Test</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AWSSDK.Core">
+      <HintPath>..\..\DemoFW35\lib\AWSSDK.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Bnn.BouncyCastle">
+      <HintPath>..\..\SignVisnam\SignVisnam\lib\Bnn.BouncyCastle.dll</HintPath>
+    </Reference>
+    <Reference Include="Bnn.Itextsharp">
+      <HintPath>..\..\SignVisnam\SignVisnam\lib\Bnn.Itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Bnn.Sdk">
+      <HintPath>..\..\SignVisnam\SignVisnam\lib\Bnn.Sdk.dll</HintPath>
+    </Reference>
+    <Reference Include="Bnn.Signlib35">
+      <HintPath>..\..\SignVisnam\SignVisnam\lib\Bnn.Signlib35.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http">
+      <HintPath>..\..\..\source\MQEMR\bin\Debug\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Formatting, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\source\MQEMR\bin\Debug\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest">
+      <HintPath>..\..\..\source\MQEMR\bin\Debug\System.Net.Http.WebRequest.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AWS4SignerBase.cs" />
+    <Compile Include="AWS4SignerForAuthorizationHeader.cs" />
+    <Compile Include="AWS4SignerForChunkedUpload.cs" />
+    <Compile Include="ByteSigner.cs" />
+    <Compile Include="CertStore.cs" />
+    <Compile Include="ChainJson.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDuocquocgia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDuocquocgia.Designer.cs">
+      <DependentUpon>frmDuocquocgia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGPB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGPB.Designer.cs">
+      <DependentUpon>frmGPB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMedigo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMedigo.Designer.cs">
+      <DependentUpon>frmMedigo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HttpHelpers.cs" />
+    <Compile Include="PdfHash.cs" />
+    <Compile Include="PDFSigner.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SignClient.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SignVisnam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignVisnam.Designer.cs">
+      <DependentUpon>SignVisnam.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDuocquocgia.resx">
+      <DependentUpon>frmDuocquocgia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGPB.resx">
+      <DependentUpon>frmGPB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMedigo.resx">
+      <DependentUpon>frmMedigo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignVisnam.resx">
+      <DependentUpon>SignVisnam.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="segoeui.ttf" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

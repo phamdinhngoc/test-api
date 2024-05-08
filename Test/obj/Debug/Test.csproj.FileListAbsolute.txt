@@ -1,0 +1,88 @@
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\LibHISExtension.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\OracleHelper.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\LibHIS.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\System.Net.Http.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\LibUtility.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\LibConfig.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\zxing.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\QRCoder.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\pgLibrary.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\Npgsql.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\MISA.MeInvoice.Lib2.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\MISA.MeInvoice.DataContract.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\API3.SDK.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\VIETINBANK.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\dichso.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\RestSharp.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\MQBarcodeGenerate.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\Bytescout.BarCode.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\Ionic.Zip.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\libpdf.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\stdole.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\Mono.Security.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\LibHISExtension.pdb
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\OracleHelper.dll.config
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\LibHIS.dll.config
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\LibUtility.dll.config
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\LibConfig.dll.config
+C:\Users\Dao Ha\source\repos\Test\Test\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Dao Ha\source\repos\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\Dao Ha\source\repos\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Dao Ha\source\repos\Test\Test\obj\Debug\Test.frmMedigo.resources
+C:\Users\Dao Ha\source\repos\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Dao Ha\source\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Dao Ha\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Dao Ha\source\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Dao Ha\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\Dao Ha\source\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\Dao Ha\source\repos\Test\Test\obj\Debug\Test.frmDuocquocgia.resources
+C:\Users\IT4\Downloads\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\IT4\Downloads\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT4\Downloads\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\IT4\Downloads\Test\Test\obj\Debug\Test.frmDuocquocgia.resources
+C:\Users\IT4\Downloads\Test\Test\obj\Debug\Test.frmGPB.resources
+C:\Users\IT4\Downloads\Test\Test\obj\Debug\Test.frmMedigo.resources
+C:\Users\IT4\Downloads\Test\Test\obj\Debug\Test.SignVisnam.resources
+C:\Users\IT4\Downloads\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\IT4\Downloads\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\IT4\Downloads\Test\Test\bin\Debug\Test.exe.config
+C:\Users\IT4\Downloads\Test\Test\bin\Debug\Test.exe
+C:\Users\IT4\Downloads\Test\Test\bin\Debug\Test.pdb
+C:\Users\IT4\Downloads\Test\Test\bin\Debug\AWSSDK.Core.dll
+C:\Users\IT4\Downloads\Test\Test\bin\Debug\Bnn.BouncyCastle.dll
+C:\Users\IT4\Downloads\Test\Test\bin\Debug\Bnn.Itextsharp.dll
+C:\Users\IT4\Downloads\Test\Test\bin\Debug\Bnn.Sdk.dll
+C:\Users\IT4\Downloads\Test\Test\bin\Debug\Bnn.Signlib35.dll
+C:\Users\IT4\Downloads\Test\Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IT4\Downloads\Test\Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\IT4\Downloads\Test\Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IT4\Downloads\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\IT4\Downloads\Test\Test\obj\Debug\Test.exe
+C:\Users\IT4\Downloads\Test\Test\obj\Debug\Test.pdb

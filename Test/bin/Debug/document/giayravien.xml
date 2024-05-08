@@ -1,0 +1,132 @@
+<RootPaper>
+	<Root Id="SigningData">
+		<ReportName>Giấy ra viện</ReportName>
+		<ReportCode>X07F2340_V2</ReportCode>
+		<Data>
+			<Row xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				<AdmID>7233494</AdmID>
+				<PtID>2348324023</PtID>
+				<PtCode>N17-2237894</PtCode>
+				<AdmCode>13-2345232</AdmCode>
+				<AdmDate>2023-03-12T00:00:00</AdmDate>
+				<AdmHour>19:20</AdmHour>
+				<DepartmentID>46</DepartmentID>
+				<Department>KHOA CẤP CỨU</Department>
+				<PatientName>NGÔ VĂN TUẤN</PatientName>
+				<S_Gender>1</S_Gender>
+				<Gender>NAM</Gender>
+				<BirthDate>1999-01-01T00:00:00</BirthDate>
+				<BirthYear>1999</BirthYear>
+				<Age>56</Age>
+				<AddressFull>Thanh Hà, Thị trấn Gò Dầu, Huyện Gò Dầu, Tây Ninh</AddressFull>
+				<Tel2>0775652162</Tel2>
+				<AdmDiagnosis>
+					Hạ kali máu (E87.6); Hạ natri máu (E87.1); Hội chứng Cushing do thuốc (E24.2); Đái tháo
+					đường típ 2 (E11.9); Rối loạn giấc ngủ (G47.8); Tăng huyết áp (I10); GERD (K21.9)
+				</AdmDiagnosis>
+				<BloodTypeID xsi:nil="true" />
+				<Desc xsi:nil="true" />
+				<TreatmentDoctorID>558</TreatmentDoctorID>
+				<TreatmentDoctor>BSCKI.ĐÀO MINH TUYỂN</TreatmentDoctor>
+				<InfantInfor></InfantInfor>
+				<OccupationID>554</OccupationID>
+				<OccupationName>Buôn bán</OccupationName>
+				<EthnicID>1</EthnicID>
+				<EthnicName>Kinh</EthnicName>
+				<NationnalityID>VIE</NationnalityID>
+				<NationnalityName>Việt Nam</NationnalityName>
+				<HICardNo>GD4727221940905</HICardNo>
+				<HIType>Đúng tuyến CẤP CỨU</HIType>
+				<HIValidDateFrom>2022-11-11T00:00:00</HIValidDateFrom>
+				<HIValidDateTo>2023-09-17T00:00:00</HIValidDateTo>
+				<IsTraiTuyenBHYT>0</IsTraiTuyenBHYT>
+				<txtTraiTuyenBHYT>Đúng tuyến CẤP CỨU</txtTraiTuyenBHYT>
+				<DischargedDate>2023-03-13T00:00:00</DischargedDate>
+				<DischargeHour>10:30</DischargeHour>
+				<TreatmentMethod>Nội khoa </TreatmentMethod>
+				<DisChargeNote xsi:nil="true" />
+				<S_IsDischargeType>5</S_IsDischargeType>
+				<DischargeType>Chuyển viện</DischargeType>
+				<S_TreatmentResult>2</S_TreatmentResult>
+				<TreatmentResult>Đỡ, giảm</TreatmentResult>
+				<DiagnoseNotes>Chuyển BV ĐK Tỉnh Tây Ninh </DiagnoseNotes>
+				<D_DoctorID>558</D_DoctorID>
+				<D_DoctorName>BSCKI.</D_DoctorName>
+				<D_DoctorEmpCode>X99999</D_DoctorEmpCode>
+				<IsRested>0</IsRested>
+				<RestedType>0</RestedType>
+				<RestedDay>0</RestedDay>
+				<RestedPeriodFrom xsi:nil="true" />
+				<RestedPeriodTo xsi:nil="true" />
+				<txtRested></txtRested>
+				<IsPathologyResult>0</IsPathologyResult>
+				<txtPathologyResult></txtPathologyResult>
+				<IsReExamination>0</IsReExamination>
+				<REDoctor xsi:nil="true" />
+				<REDoctorName xsi:nil="true" />
+				<ReExamDeptID xsi:nil="true" />
+				<ReExamDept xsi:nil="true" />
+				<ReExaminationDate xsi:nil="true" />
+				<V_AMorPM01 xsi:nil="true" />
+				<AMorPM01 xsi:nil="true" />
+				<V_DayName01 xsi:nil="true" />
+				<Day_Name01 xsi:nil="true" />
+				<V_AMorPM02 xsi:nil="true" />
+				<AMorPM02 xsi:nil="true" />
+				<V_DayName02 xsi:nil="true" />
+				<Day_Name02 xsi:nil="true" />
+				<TGTaiKham xsi:nil="true" />
+				<MaYT>70143123024201</MaYT>
+				<PrintDate>13/03/2023 10:03</PrintDate>
+				<SignedPosition1>0</SignedPosition1>
+				<SignedDate1 xsi:nil="true" />
+				<SignedPerson1 xsi:nil="true" />
+				<SignedEmpCode1 xsi:nil="true" />
+				<SignedSignatureImgPath1 xsi:nil="true" />
+				<SignedRole1></SignedRole1>
+				<SignedPosition2>0</SignedPosition2>
+				<SignedDate2 xsi:nil="true" />
+				<SignedPerson2 xsi:nil="true" />
+				<SignedEmpCode2 xsi:nil="true" />
+				<SignedSignatureImgPath2 xsi:nil="true" />
+				<SignedRole2></SignedRole2>
+				<SignedPosition3>0</SignedPosition3>
+				<SignedDate3 xsi:nil="true" />
+				<SignedPerson3 xsi:nil="true" />
+				<SignedEmpCode3 xsi:nil="true" />
+				<SignedSignatureImgPath3 xsi:nil="true" />
+				<SignedRole3></SignedRole3>
+				<S_IsDepRoom>0</S_IsDepRoom>
+			</Row>
+		</Data>
+		<SignatureInfo>
+			<SignatureDetail>
+				<SignedPosition>1</SignedPosition>
+				<SignedDate>2023-03-13T10:17:20</SignedDate>
+				<SignedPerson>BSCKII. NGUYỄN VĨNH KIM</SignedPerson>
+				<SignedEmpCode>A07-077</SignedEmpCode>
+				<SignedSignatureImgPath>images/Person/CHUKY/A07-077.png</SignedSignatureImgPath>
+				<SignedRole>TRƯỞNG KHOA</SignedRole>
+			</SignatureDetail>
+			<SignatureDetail>
+				<SignedPosition>2</SignedPosition>
+				<SignedDate>2023-03-13T10:21:02</SignedDate>
+				<SignedPerson>TS BS. NGUYỄN VĂN A</SignedPerson>
+				<SignedEmpCode>A00-044</SignedEmpCode>
+				<SignedSignatureImgPath>images/Person/CHUKY/A00-144.png</SignedSignatureImgPath>
+				<SignedRole>
+					TUQ. GIÁM ĐỐC
+					Phó Trưởng Phòng Kế Hoạch Tổng Hợp
+				</SignedRole>
+			</SignatureDetail>
+			<SignatureDetail>
+				<SignedPosition>3</SignedPosition>
+				<SignedDate>2023-03-13T10:21:02</SignedDate>
+				<SignedPerson>Bệnh viện Đại học Y Dược TPHCM</SignedPerson>
+				<SignedEmpCode>BVDHYD</SignedEmpCode>
+				<SignedSignatureImgPath>images/condau.png</SignedSignatureImgPath>
+				<SignedRole>ĐÓNG DẤU</SignedRole>
+			</SignatureDetail>
+		</SignatureInfo>
+	</Root>
+</RootPaper>
